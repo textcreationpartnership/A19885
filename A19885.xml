@@ -1,0 +1,348 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A iust complaint against an uniust doer Wherein is declared the miserable slaverie &amp; bondage that the English Church of Amsterdam is now in, by reason of the tirannicall government and corrupt doctrine, of Mr. Iohn Pagett their present minister. The which things are plainly manifested in two certein letters, the one written by Mr. Iohn Davenport to the dutch classis, the other given vp to the English consistorie by some of the brethren. With other briefe passages tending to the same effect. Published by one that much pitties them and prayes dayly for their deliverance.</title>
+            <author>Davenport, John, 1597-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1634</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19885</idno>
+            <idno type="STC">STC 6311</idno>
+            <idno type="STC">ESTC S119390</idno>
+            <idno type="EEBO-CITATION">99854597</idno>
+            <idno type="PROQUEST">99854597</idno>
+            <idno type="VID">20024</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19885)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 20024)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 955:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A iust complaint against an uniust doer Wherein is declared the miserable slaverie &amp; bondage that the English Church of Amsterdam is now in, by reason of the tirannicall government and corrupt doctrine, of Mr. Iohn Pagett their present minister. The which things are plainly manifested in two certein letters, the one written by Mr. Iohn Davenport to the dutch classis, the other given vp to the English consistorie by some of the brethren. With other briefe passages tending to the same effect. Published by one that much pitties them and prayes dayly for their deliverance.</title>
+                  <author>Davenport, John, 1597-1670.</author>
+               </titleStmt>
+               <extent>[1], 24, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[Amsterdam?] :</pubPlace>
+                  <date>Printed Anno 1634.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Unauthorized by Davenport, who dicates in STC 6310 that he was able to suppress about 450 of the 500 copies printed. William Best's initials appear with those of 8 others at the end of the second section. Answered by STC 19097--STC.</note>
+                  <note>Suggested place of publication from STC.</note>
+                  <note>"Published by one that much pitties them" = William Best--STC.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Puritans --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:20024:1"/>
+            <pb facs="tcp:20024:1" rendition="simple:additions"/>
+            <p>A IVST COM<g ref="char:EOLhyphen"/>PLAINT AGAINST AN VNIVST DOER.</p>
+            <p>Wherein Is declared the miſerable ſlaverie &amp; bondage that the Engliſh Church of Amſterdam is now in, by reaſon of the Tirannicall government and corrupt doctrine, of Mr. Iohn Pagett their preſent Miniſter.</p>
+            <p>The Which things are plainly manifeſted in two certein letters, the one written by Mr. Iohn Davenport to the dutch Claſſis, the other given vp to the Engliſh Conſiſtorie by ſome of the brethren. With other briefe paſſages tending to the ſame effect.</p>
+            <p>Publiſhed by one that much pitties them and prayes dayly for their deliverance.</p>
+            <q>
+               <bibl>
+                  <hi>Math. 23.</hi>15.</bibl> Wee unto you Scribes and Phariſes hypocrites, for ye ſhutt vp the Kingdom of h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aven againſt men: for ye neither goe in your ſelves, neither ſuffer ye them that are entring to go in.</q>
+            <q>
+               <bibl>
+                  <hi>Son. 2.15.</hi>
+               </bibl> Take vs the foxes the litle foxes that ſpoile the vine.</q>
+            <q>
+               <bibl>
+                  <hi>Gal. 5.12.</hi>
+               </bibl> I would they were even cut off which trouble you.</q>
+            <p>Printed Anno 1634.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:20024:2"/>
+            <div type="letter">
+               <head>A COPPIE OF MY LETTER TO THE CLASSIS.</head>
+               <p>IT doth greive me not without cauſe, Excellent and learned men, reverend brethren, that our firſt mee<g ref="char:EOLhyphen"/>ting happeneth to be in a way of diſpute, which that it might have ben pleaſing and peaceable by the full agree<g ref="char:EOLhyphen"/>ment of our opinions, was my cheife deſire: yet my full perſwaſion of your (not humanitie only but allſo) brotherly affection towards me, doth ſomwhat mitti<g ref="char:EOLhyphen"/>gate that ſorrowing, in confidence whereof I will briefly relate to your prudence (reverend brethren) with all due reverence, the cauſe of the ſlow proceeding of my confirmation in the miniſtry, wherunto I ſeemed to be called.</p>
+               <p>The calling it ſelfe I profeſſe my ſelfe to accept willingly, though not without trembling, and am very readie to diſcharge that office as I am able: but ſome thinges have happened betweene the call, and my con<g ref="char:EOLhyphen"/>firmation, beyond my Expectation. for</p>
+               <p n="1">1. Firſt I vnderſtand that both the worthy bre<g ref="char:EOLhyphen"/>thren, Paſtors of the dutch Church, and the reverend Mr. Pagett, did propound, and appoynt, as a con<g ref="char:EOLhyphen"/>dition of my admittance, that I ſhould conforme to the orders, and cuſtoms, of the dutch Church, whereas I doe not yet vnderſtand, what thoſe orders and cuſtoms are, for which cauſe, I propounded to the conſiſtory of the Engliſh Church, that ſome convenient time might be given me, rightly to informe my ſelfe concerning thoſe canons and cuſtoms of the dutch Church, and concerning the ſtate of this Engliſh Church, before I ſhould; by taking upon me this Paſtorall office, binde my ſelfe to either of them, this the conſiſtory not only judged equall: but allſo with one conſent concluded
+<pb n="2" facs="tcp:20024:2"/> that it ſhould be ſo, Mr. Pagett only excepted, who would not agree with them in that matter, without con<g ref="char:EOLhyphen"/>ſent of the Claſſis: whereas nevertheles, the Power of every particular Church; is cheife in its owne particular matters, (or in things which are proper to it ſelfe) as a Synod hath the cheife power, in things that are common to many Churches, witnes Cham. Cont. Bell. <hi>lib.</hi> 2. With whom agree the canons of theſe Churches, as appareth in the Harmony of the dutch Synods, where it is decreed that only ſuch things, ſhallbe brought unto the Claſſis, which can not be ended in the conſiſtory. <hi>Chap.</hi> 7. <hi>Art.</hi> 6. As that which can not conveniently, be decided by the Claſſis ſhallbe brought into the Provinciall Synod. <hi>Chap.</hi> 8. <hi>Art.</hi> 6.</p>
+               <p>Secondly it was required of me that I ſhould con<g ref="char:EOLhyphen"/>forme, unto a particular cuſtom of the dutch Church for the unlimited Baptiſinge of all infants, which were preſented in thc Church, of what nation or Sect ſoever, allthough, that either of the paren<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s were chriſtians, was no otherwiſe manifeſt, then by their (all) anſwering yea, at the reading of the leiturgy of baptiſme publickly, or by nodding their head, or ſome other g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſture, they ſeemed to be willing to anſwer.</p>
+               <p>Firſt I neither did nor doe deny, to baptize their Infants who are members of this Church, which ſeing it is ſo, I deſier to underſtand by what right, the Paſtour of any particular Church, can be bound to excerciſe his miniſtry in any act of it, towards thoſe who are not members of his Church, ſeing the Apoſtle Paul re<g ref="char:EOLhyphen"/>quired no more of the Paſtors of Epheſus, then to take heed to themſelves, and to all the flocke, whereof the holy Ghoſte hath made them ouer<g ref="char:EOLhyphen"/>ſeers. <hi>Act.</hi> 20.28. The ſame is required of Ar<g ref="char:EOLhyphen"/>chippus, to take heade to the miniſtry which he had received of the Lord, (viz. amongſt the Colloſſians)
+<pb n="3" facs="tcp:20024:3"/> that he fullfill it. <hi>Col.</hi> 4, 17. as allſo Peter exhorteth the Elders, <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>
+                  </label> ſaying, feed the flocke that is amongſt you 1. <hi>Pet.</hi> and 2. If it be objected that all that are under the Claſſis of Amſterdam, ought to conforme to the cuſtom of the dutch Church in Amſterdam.<note place="margin">An. 1.</note> I anſwer that, even for that reaſon, the Engliſh Church ought not to be bounde therunto, it beinge not neſſeſſary to require it of them, ſeinge that the dutch Church: (which is in the ſame cittie) refuſeth none, but baptiſeth all that are brought, without difference, eſpecially, 2lie. Seing that the Paſtor of the Engliſh Church, can not ſatisfie his conſcience, that it is lawfull for him ſo to doe, yea he greately feareth: leaſt Chriſt will Iudge him guilty, if he ſuffer himſelfe to be in bondage under ſuch a cuſtom, which is contrary to the canon of the Apoſtle, let every man be perſwaded in his owne minde. <hi>Rom.</hi> 14.5. and whatſoever is not of faith is ſinne verſ. 23.</p>
+               <p>Secondly in regard of the communion of particular Churches amongſt themſelves, I neither did nor doe refuſe to Baptiſe their Infants, who are not members of this Church: ſo that I may be ſatisfied, by ſome preciſe Examination, if otherwiſe they be vnknowne to me, that they are Chriſtians in deed.</p>
+               <p>When Mr. Pagett asked me, what Queſtions I would propound, to ſuch as are not members of this Church: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or otherwiſe knowne to me? I anſwered, I will in<g ref="char:EOLhyphen"/>quire of what religion they are of, and of what Church they are members, and concerning that fayth (which they ſeeme to profeſſe, &amp; wherin they promiſe to educate their Children. It ſeemes to me that herein, Mr. Pagett dealt extremely with me, in that he rejected all my labour, for a peaceable compoſing, prudent accommodating, and brotherly ending of matters betweene him and me privatly, or by the counſell of the Elders of his owne Church, nor would hearken to my adviſe for accommo<g ref="char:EOLhyphen"/>dation
+<pb n="4" facs="tcp:20024:3"/> without conſent of the Claſſis.</p>
+               <p>At laſte the matter was brought to five eminent bre<g ref="char:EOLhyphen"/>thren, Paſtors of the dutch Church: Who being deſired (as it is ſayd) by ſome of the Elders of this Church, that they would indevour to inclyne, Mr. Pagett to ſome freindly agreement herein, upon Mr. Pagetts requeſt alone did in writing declare their private Iudgment in this queſtion, yet therein they profeſſed, that they very much approved, of my good zeale, and care concerninge the private examination of the parents or ſuertyes of ſuch infants, before the child ſhould be baptized, and that the foreſayd examination, ought to be ordayned, as farre as it might ſtand with the edification of the Engliſh Church: (having thus ſayd, they add afterwards) but if the parents or ſuertyes ſhall refuſe to be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xamined, or if for the ſhortnes of time, or for other Iuſt cauſe, it can not be done, or, if, when they doe come they ſhall not ſeeme to give ſatisfaction, to the Iudgment of him that examineth them, the infants whoſe parents or ſuertyes, appeare to be chriſtians, and who doe profeſſe the chri<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an religion, at the reading of the Leiturgie of baptiſme, publickly before the Church, ſhall not for that cauſe be ſent away, without baptiſme.</p>
+               <p>The day following, Mr. Pagett asked me, whether I would reſt in the writing of the 5. Miniſters? To whome I anſwered, the writers themſelves doe not require this of me, and for ought I can ſee it would give them content, if an order be made in conſiſtory to put an ende to this controverſie. But if any marvell, why I did not reſt in that writing, I will tell the reaſons, for by what right could it be exacted or expected that I ſhould reſt in the writing, when firſt the wryters themſelues profeſſed that it was but their owne privat judgment. Secondly this their private judgment was nakedly pre<g ref="char:EOLhyphen"/>pounded, without any proofe from the word of God, whoſe prerogative it is to be reſted in, for its owne Au<g ref="char:EOLhyphen"/>thoritie.
+<pb n="5" facs="tcp:20024:4"/> Thirdly ſuch a ſubjection, is greater then may bee yeilded vnto any counſell, whether of claſſis, or Synods, and where it hath been granted or ſuffered, it hath been the cauſe of many miſcheifs in the Church, for therby the writings and decrees of men are made infalli<g ref="char:EOLhyphen"/>ble, and equall with the word of God, which is intole<g ref="char:EOLhyphen"/>rable. Fourthly thoſe reverend brethren, take the word chriſtian more largely then I, for they account all chri<g ref="char:EOLhyphen"/>ſtians which profeſſe chriſtian religion at the reading of the leiturgy of baptiſme publickly, before the Church, though it be done only in one word, yea or by bowing the head or body, when they ſay nothing, yea ſome of them goe ſo farre, that they hould that the very offering of the child to Baptiſme, giveth it a right therunto, though the parents be not chriſtians, becauſe (they ſay) it may be their grandfather or great grandfather were chriſtians, and another adds (if my memory fayles not) that in<g ref="char:EOLhyphen"/>fants are holy in the roote, if they be borne where the Goſpell is preached. But I take the name of chriſtians, (in this queſtion,) in the ſame ſence wherein the multi<g ref="char:EOLhyphen"/>tude of beleevers in Antiochia, were called chri<g ref="char:EOLhyphen"/>ſtians. <hi>Act.</hi> 11, 21, 26. So that I account them to be chriſtians children whoſe parents, at leaſt one of them, in externall profeſſion, is within the covenant. <hi>Gen.</hi> 17, 10. <hi>Faithfull. Rom.</hi> 4, 11. <hi>Called. Act.</hi> 2, 39. <hi>Ioyned to ſome true Church:</hi> 1. <hi>Cor.</hi> 5.12. Becauſe the ſeale of the covenant belongs only to thoſe in the covenant: nor can a man be judged to be in the covenant, without faith, nor to have faith unleſſe he be called, nor to be called, unles he be taken off, from the world, and joyned to the con<g ref="char:EOLhyphen"/>gregation of the faithfull: wherunto agree the divines of the dutch Church in their confeſſions, and all the re<g ref="char:EOLhyphen"/>formed Churches, in the harmony of confeſſions, read allſo, Spe. contr. Pelag. <hi>Act.</hi> 28, 34. Kuchl. de bap<g ref="char:EOLhyphen"/>tiſm. <hi>Theſ.</hi> 15. Dr. Ames caſ. Con. cap. 27. to conclude, all divines agree in this.</p>
+               <pb n="6" facs="tcp:20024:4"/>
+               <p>As fot that which is objected, concerning particular <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>1</label> caſes that may happen:<note place="margin">Caſ. con. An.</note> that which Beza writes in his Epiſtle to the miniſters of Neocomum, or Perkins, or Ames, in their caſes, or the Profeſſors of Leyden, in their Theſes, makes nothing againſt my opinion, if they be taken in a good ſence, and made to agree with the Pa<g ref="char:EOLhyphen"/>tern of wholeſom words.</p>
+               <p>The conſequence, which ſome object, for the avoy<g ref="char:EOLhyphen"/>ding <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>2</label> wherof, they would have infants, thus promiſcu<g ref="char:EOLhyphen"/>ouſly to be baptized, doe not trouble me, <label type="milestone">
+                     <seg type="milestoneunit">An. </seg>
+                  </label> becauſe I have learned of the Apoſtle that evill is not to be done that good may come therof, yet in the interim, conſider brethren, whether it be lawfull to drive the Paſtor from the flock, that ſtrangers may enter into the fold, or to make the Paſtors calling voyd, for their ſakes, that are uncalled, or to hinder the making of a covenant betweene the Paſtor and his people, becauſe he dare not give the ſeale of the covenant to thoſe that are not in the covenant, or to remove the Porter from the dore of the Lords houſe, that the gentiles may be ſuffered to enter into rh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Temple? yea to bringe a detainment upon the Engliſh Church, for ſo ſmalle a matter, as this ſeemeth to you to be, and not to regard how much the conſcience of your brother is indangered, ſo your cuſtoms may be eſta<g ref="char:EOLhyphen"/>bliſhed: neither is this to be ſleighted, that, vnles we be thus difficult in this cauſe, parents that joyne themſelves vnto no Church will content themſelves in that eſtate, and live, and dy libertines, if they may have the Privi<g ref="char:EOLhyphen"/>leges of the Church, as if they were members, which who ſeeth not what an occation of error, and deſtruction, it may be both to parents and children, ſo that I can not be perſwaded but that in that cauſe, the conſcience is not at all indangered, by denying baptiſme, but by baptizing ſuch very much.</p>
+               <p>Concerning the troubles, which ſome object may ariſe <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>3</label> in the Engliſh Church, vpon this occaſion, which alſo
+<pb n="7" facs="tcp:20024:5"/> one applied to me, as if I ſhould be judged to be the au<g ref="char:EOLhyphen"/>thor o them.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. </seg>
+                  </label> I propounded to you (reverend brethren,) to the En<g ref="char:EOLhyphen"/>gliſh Church, yea to the whole chriſtian world to judge, who ſhalbe accompted the cauſe therof, whether he that peaceably and privatly and quietly, deſireth to be ſatis<g ref="char:EOLhyphen"/>fied in the things wherof he doubteth, or they that im<g ref="char:EOLhyphen"/>periouſly deny him convenient time for that purpoſe, and doe bind him to ſuch orders and cuſtoms, as he can not thinke to be equall.</p>
+               <p>Afterwards, without the deſire or conſent of the conſiſtory, the matter was brought into the Claſſis, they confirmed the writing of the five Miniſters, and decreed that conformity therunto ſhould be required of me as a condition whervpon I ſhould be admitted: but I deſired the reverend brethren earneſtly; not to binde me to that condition, ſeing that, firſt, that practiſe, is groun<g ref="char:EOLhyphen"/>ded upon no authoritie of Gods Word.</p>
+               <p>Secondly, nor upon <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny ca<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n of any Synod.</p>
+               <p>Thirdly, nor is required of any one to be choſen to the Paſtorall office, as a condition of their admittance, in any reformed Church.</p>
+               <p n="4">4lie. This practiſe is not ſo abſolute, or unlimited in any Churches, as it is required of me.</p>
+               <p n="5">5lie. It is propounded: as a greivance in many Dutch Churches, from whence they would be delivered and freed if they could.</p>
+               <p n="6">6lie. It is manifeſt that the noble and learned Po<g ref="char:EOLhyphen"/>lonian Ioannes Alaſco Baron and Superintendent of the Church of ſtrangers in London, in the reigne of Edw. 6th. Did obtaine and that under the broade ſeale of England, liberty not to baptize any ſuch (as) againſt whom I except, which libertie your Dutch Church doe now injoy vnder our moſt mighty Kinge Charles, and is not in any thing bound unto any of the canons of the Church of England.</p>
+               <pb n="8" facs="tcp:20024:5"/>
+               <p>Nevertheles M<hi rend="sup">r</hi>. Paget propounded to me in the con<g ref="char:EOLhyphen"/>ſiſtory that I ſhould conſider and conclude with my ſelfe, when I ſhould give my laſt anſwer, whether I would pro<g ref="char:EOLhyphen"/>miſe to baptize all infants, that ſhould be preſented to baptiſme, refuſing none, unto which queſtion, the next weeke I gave (in the ſame place) this anſwer, I dare not promiſe to baptiſe all that ſhall be offered therunto: Be<g ref="char:EOLhyphen"/>cauſe the promiſe of doeing it, is a confeſſion that the thing is lawfull to be done, which I doe not beleeve, yet, becauſe I much priſe your love, and deſire your peace, I will, if you deſire it, continue aſſiſting Mr. Pa<g ref="char:EOLhyphen"/>get a convenient time, ſuch as we ſhall agree upon, wherin I may make my ſelfe knowne better to the Dutch Paſtors, and obtayne that, by their meanes, this queſtion may be layd aſide, and your Church may obtaine liberty therin, and I may more fully underſtand the other Cuſtoms of the Dutch Church and the ſtate of this Churche. This propoſition was cheerfully imbraced by the Elders, who conſulted about allowing a years time for this purpoſe, wherunto I hope, you, reverend brethren, will aſſent, which if you doe, it ſhalbe my part to endeavour, that neither you may reprent of your benevolence, nor the magiſtrats of their indulgence, but that many thankes may be given both to you and them, both by Mr. Paget, and by the Engliſh Church, by him, for the continuance of an Aſſiſtant (ſuch a one as he is) &amp; by it for the preſerva<g ref="char:EOLhyphen"/>tion of peace amongſt them, which all deſire, wherunto I pray God to give his bleſſing, and to inrich you, reve<g ref="char:EOLhyphen"/>rend brethren, with the ſpirit of wiſdom, Chriſtian pru<g ref="char:EOLhyphen"/>dence, and the fear of God, that you may well order this buſines. So prayeth.</p>
+               <closer>
+                  <signed>
+                     <hi>Iohn Davenport Engliſhman, Bachelou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, of divinitie in Oxford. At preſent,</hi> 6 <hi>Stranger in Amſterdam.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:20024:6"/>
+               <p>LET the reader judge, what I could ſay leſs, or more mildly, beinge to give an account of the paſſages in ſuch a buſines? or what paſſage herein might juſtly be thought offencive, conſidering the premiſes? And who would not have thought, that the Claſſis wold have approved of the deſire of the Con<g ref="char:EOLhyphen"/>ſiſtory, that a years time ſhould be granted me, for the ends aforeſayd? yet on the contrary, they ſeemed to be offended at the writing, threatened to complayn to the Magiſtrats and after much debate, concluded, that I ſhall have but a monthes time, in which if I doe not anſwere, categori ally that I will conforme to the orders and cuſtoms of the dutch Church, and to this, particularly in queſtion, reſtinge in the judgment and reſolution of the 5. dutch Preachers. and joyne with the Claſſis, or vo<g ref="char:EOLhyphen"/>luntarily deſiſt, they will complayne to the Magiſtrats, &amp;c. what remained now to be done, but either volun<g ref="char:EOLhyphen"/>tary deſiſtance on my part, or violent rejection, on theirs? in this month allſo M<hi rend="sup">r</hi>. Paget, both in publick and in privat, ſhewed his averſenes from my joyning with him more then formerly, wherfore to prevent diſtur<g ref="char:EOLhyphen"/>bance in the Church, and further diſquietment of my ſelf upon ſerious conſideration and good adviſe, I volunta<g ref="char:EOLhyphen"/>rily deſiſted, and left the enſuing Coppie therof in Lattin and Engliſh, with the elders, with this liberty, either to ſhew or conceale the ſame, as they ſhold judge it moſt expedient, intreating them in theſe words or in words tending to this purpoſe, to expreſſe my reſolution to the Claſſis.</p>
+            </div>
+            <div type="instructions">
+               <pb n="10" facs="tcp:20024:6"/>
+               <head>CERTEINE INSTRVCTIONS delivered to the Elders of the Engliſh Church deputed, which are to be propoun<g ref="char:EOLhyphen"/>ded to the Paſtors of the Dutch Church in Amſterdam.</head>
+               <p>FIrſt, the reverend brethren, Paſtors of the Dutch Church under the Claſſis of Amſterdam, are to be intreated not to accuſe M<hi rend="sup">r</hi>. Davenport, as the cauſe of this trouble, that that particular queſtion concerning baptiſme, between M<hi rend="sup">r</hi>. Paget is brought unto them, which by his will, ſhould have been privatly en<g ref="char:EOLhyphen"/>ded between themſelves, and the brethren ſhould not have been troubled, more then was neceſſary with ſuch queſtions, who have matters of greater moment to take care for in their claſſicall meeting.</p>
+               <p>Secondly let them be certified that, for many we ghtie reaſons, Mr. Davenport can not reſt in that writing of the five brethren, whoſe judgment nevertheles, he doth very much eſteeme, concerning which matter (though he hath much to ſay, yet paſſing by other things) this alone he profeſſeth at preſent, that his judgment is, that Dr. Ames, his opinion herein is moſt agreeable vnto the word of God, who in the 4th. booke of his caſes of conſcience. Chap. 27. Concerning baptiſme, (ha<g ref="char:EOLhyphen"/>ving affirmed that it is neſceſſary that the Infants to be baptiſed be in the covenant, in externall profeſſion, and eſtimation, in their parents, and that their is hope, that they ſhallbe inſtructed, and educated in that covenant afterwards, and that at leaſt one of the parents is within the Church, not out of it, doth conclude, that their negligence can by no meanes bee excuſed, who doe
+<pb n="11" facs="tcp:20024:7"/> promiſcuouſly admit to baptiſme whoſoever is offered and by whomſoever.</p>
+               <p>Thirdly, let them underſtand, that M<hi rend="sup">r</hi>. Pagets former delayes in this buſines of Mr. Davenports call, and his ſtifnes in that queſtion concerning baptiſme, with<g ref="char:EOLhyphen"/>out yealding any brotherly moderation to Mr. Daven<g ref="char:EOLhyphen"/>port, ſo much as to beare with him in ſo ſmall a matter, (as this ſeemed both to them and him to be) and to take vpon himſelfe that which he can doe, (if occaſion require, with full perſwaſion,) but Mr. Davenport can not doe with inward peace, and his rejecting all Mr. Davenports endeavours for a peaceable compoſing and ending of this difference privatly between themſelves, or with the coun<g ref="char:EOLhyphen"/>ſell of the Elders of his Church, and certeine ſharpe and biting Sermons preached by him, of late, and his privat conferences with cert<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine perſons doe abundantly de<g ref="char:EOLhyphen"/>monſtrate, that Mr. Paget hath no deſire that Mr. Da<g ref="char:EOLhyphen"/>venport ſhould be his Colleague, but doth indevour the hinderance, rather then the furtherance therof.</p>
+               <p>Laſtly. Seing peace and a greement between the Pa<g ref="char:EOLhyphen"/>ſtors doth much conduce to the edification of the Church, and ſeing that (for the reaſons aforeſayd) ther is no hope of peace and chriſtian concord between them, Mr. Da<g ref="char:EOLhyphen"/>venport being ſtudious of the peace of the Church, his mind is wholy turned from taking upon him the office of Paſtor in the Engliſh Church, in this cittie, and doth voluntarily deſiſt from his publicke miniſtry in this place, and doth commend vnto God the brethren in every good worke, and committ himſelfe wholy to the only wiſe father, to be diſpoſed elſewhere, as it ſhall pleaſe his infinit wiſdom, to his owne glory. April. 28. An. 1634.</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:20024:7"/>
+               <head>THAT THESE INSTRVCTIONS were written by himſelfe, and by himſelfe delivered to the Elders deputed, he wit<g ref="char:EOLhyphen"/>neſſeth, by ſubſcribing his name, Iohn Da<g ref="char:EOLhyphen"/>venport.</head>
+               <p>THough I have deſerved better uſage at Mr. Pa<g ref="char:EOLhyphen"/>gets hands for allmoſt 6. Months aſſiſtance of him, and have done and ſuffered ſo much to pre<g ref="char:EOLhyphen"/>ſerve his peace, and the Churches, which if I had not exerciſed much patience and induſtry, would certeinly have fallen from him, being over burd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d with the loſſe of ſo many men, ſo much deſired by the congre<g ref="char:EOLhyphen"/>gation, and other paſſages, which I will for the preſent ſpare to mention, M<hi rend="sup">r</hi>. Paget not content with former Injuries addeth theſe following.</p>
+               <p>Firſt he ſayth &amp; reporteth, that he hath often deſired to diſpute or confer with me about this poynt, but that I re<g ref="char:EOLhyphen"/>fuſed it: wheras he knoweth we were in continuall diſ<g ref="char:EOLhyphen"/>courſe about it diverſe weekes, before others knew of the difference, neither ſhould it ever have ben knowne, if any brotherly love had wrought in him, or my adviſe and de<g ref="char:EOLhyphen"/>ſire might have prevayled. In this time there paſſed 2. or 3. ſerious conferences between us, wherein this poynt was diſputed, which I have in writing by me, nor did I ceaſſe till he gave over, and ſayd, that ſeeing his judgment could not prevayle with me, he wold leave it now to the dutch Preachers, to ſee if they could prevayle with me; from which I diſſwad. earneſtly, but in vayne, at laſt he tould me that he would ſpeake with me alone no more about thoſe matters, from that time I have ceaſed to come to his houſe.</p>
+               <p>Secondly, he reported that I am gone from my promiſe, for I ſayd, I would reſt in the writing of the five Miniſters, but now I will not, whereas he
+<pb n="13" facs="tcp:20024:8"/> knoweth that from the firſt to the laſt, himſelfe never heard me ſpeake any ſuch word, and the night before they went to the Magiſtrates for their conſent to my call, he apprehended my anſwer rightly, and tould the Elders that he perceived that I did not reſt in that writing of the 5. Miniſters, further then it made way for an order to be made in the conſiſtory, wherat he ſhewed himſelfe diſ<g ref="char:EOLhyphen"/>contented.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ob. </seg>1</label> But one of the Elders ſayd ſo in the conſiſtory.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. </seg>
+                  </label> That elder denieth that he ſayd ſo, and knoweth that I ſayd otherwayes to him, that which he ſayd, (as I am informed) was only to quiet Mr. Paget, and ther<g ref="char:EOLhyphen"/>fore told him that ſome part of that writing with an order to be made in conſiſtory, being ioyned together, would ſettle things, which is farre from an intimation of any purpoſe in me to conforme therunto.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ob. </seg>2</label> But Mr. Paget would not have gone elſe to the Ma<g ref="char:EOLhyphen"/>giſtrate, <label type="milestone">
+                     <seg type="milestoneunit">An. </seg>
+                  </label> if he had not underſtood it to be ſo? It hath been often cleared, that he miſunderſtood that Elder, if he ſo vnderſtood him, and if he wold not upon other termes have gone to the Magiſtrate, the whole congre<g ref="char:EOLhyphen"/>gation and I am the leſſe beholden to him.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ob. </seg>3</label> But he did goe to the Magiſtrat, and at a time when he was not very ſtronge, and when he came home tould his wife rejoycing, that now the buſines is ended, which he would not have done, if he had not ſo underſtood it, and if he had not deſired to have Mr. Davenport for his colleague.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. </seg>
+                  </label> Vpon his going to the Magiſtrate, the buſines was not ended, for the Magiſtrate ſhewed himſelfe unſatis<g ref="char:EOLhyphen"/>fied, concerning the cauſe of my comming over, wherin how litle he ſpake to give ſatisfaction is evident, yea, what he anſwered, might ſerve rather to increaſe the ſuſpition, that beinge ended, and the Magiſtrats ſatisfied by other meanes, it was ſo brought about by one of the Dutch Preachers interpoſing, that the Magiſtrats gave but
+<pb n="16" facs="tcp:20024:8"/> a conditionall conſent to my call, and made my confor<g ref="char:EOLhyphen"/>mity to this cuſtom of promiſcuous baptiſinge, the con<g ref="char:EOLhyphen"/>dition therof, ſo that now matters were in a worſe ſtat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> then before. It is apparent that if Mr. Paget was at that time content to have me joyne with him, it was but con<g ref="char:EOLhyphen"/>ditionally, that I would doe whatſoever he, or the Claſſis would have me, upon which termes he is con<g ref="char:EOLhyphen"/>tent to have others, whom he hath no cauſe to deſire for colleagues with him.</p>
+               <p>But Mr. Davenport did purpoſe to yeald, when he <label type="milestone">
+                     <seg type="milestoneunit">Ob. </seg>4</label> came from England elſe why would he come over ha<g ref="char:EOLhyphen"/>ving ſeene the queſtions that were put to M<hi rend="sup">r</hi>. Hooker?</p>
+               <p>He ſaw the queſtions in London, <label type="milestone">
+                     <seg type="milestoneunit">An. </seg>
+                  </label> above a yeare before his comming over, when he was farre from any thoughtes of comming to Amſterdam, or to any place out of his owne land, and when he did come over he profeſſed, both in England, and here, that he came but for 3. or 4. months, for which time, what need was there of his knowing, much leſſe practiſing or con<g ref="char:EOLhyphen"/>forming to the cuſtoms of the Dutch Church, and when he did conſider of that queſtion as it was put to Mr. Hooker, ther was not either in the queſtion or anſwer, ſufficient light to informe him of that, which time hath diſcovered herein, neither can any man from thence, know what in this cuſtom is to be diſliked.</p>
+               <p>But Mr. Pa., did ſo much in that buſines, that he ſayth, if <label type="milestone">
+                     <seg type="milestoneunit">Ob. </seg>5</label> that were to doe agayne he would not doe it, which ſhew<g ref="char:EOLhyphen"/>eth that at that time he deſired to have you.</p>
+               <p>If ever he did deſire me, <label type="milestone">
+                     <seg type="milestoneunit">An. </seg>
+                  </label> I have given him no cauſe to repent of it, but to deſire it more, vnles he takes offence at this, that I dare not venture vpon doeing that which I ac<g ref="char:EOLhyphen"/>count unlawfull, or at this, that I report the truth of things as they paſſed when I am provoked thervnto.</p>
+               <p>But it ſeemes to me that he never did deſire it, for theſe reaſons. 1. bec. before I came hither, when he heard I was to come over, he preached publickly againſt my reſigning up my place, which afterward he juſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fied, when I related to him
+<pb n="15" facs="tcp:20024:9"/> the cauſe therof, the carriage therin, and the conſent of many worthy devines, and of the congregation it ſelfe therunto.</p>
+               <p>Secondly becauſe ſeverall times he ſhewed his diſlike of my comming hither, without his deſire or conſent in ſending for me, though it is apparent that God ſent me hither at a needfull time, when without me they would have been deſtitute, he being unable to preach, or to come to the Church.</p>
+               <p>Thirdly, becauſe he delayed the calling of me ſo long, that the Elders began to be impatient of his delayes, for what reaſons he beſt knoweth.</p>
+               <p n="4">4lie. becauſe as ſoone as he found my Iudgm. differing in this poynt from his practiſe, he diſcouered how litle he deſired me, by refuſing all meanes of accomodation, though by them the difference might have been hid, and peremptorily reſolving to have it brought into the Claſſis, though I tould him it would make matters worſe, he pretended he might not doe otherwiſe, though ſome of the Dutch Preachers, ſayd it might be beſt ended in the Conſiſtory, and wiſhed it might be ſo, and approved of what I had ſayd to Mr. Paget, that matters would be worſe elſe: For it is unlikly that the Claſſis would make an order in favour of me, to condemn their owne cuſtoms.</p>
+               <p n="5">5lie. He preſſed earneſtly to have Mr. Balmford of the Hage, though he gave him the ſame anſwer to the queſtion which I had done before I came into theſe parts: and ſince hath nominated Mr. Roe of Fluſhing: though he in anſwer to a letter which Mr. Paget ſent to him concer<g ref="char:EOLhyphen"/>ning this matter profeſſed himſelfe to be of my judgment.</p>
+               <p n="6">6lie. Becauſe he hath allwayes ſo much urged to have one that hath lived ſome years in this country, and hath hitherto oppoſed diverſe worthy men that have come immediatly from England, my hope is at an end, and I muſt ceaſſe. Iohn Davenport.</p>
+            </div>
+            <div type="part">
+               <pb n="16" facs="tcp:20024:9"/>
+               <head>THE GREIVANCES, AND COM<g ref="char:EOLhyphen"/>plaints of the burthened and oppreſſed members of the Engliſh Church in Amſter<g ref="char:EOLhyphen"/>dam. Anno 1634. The 18 of October.</head>
+               <p>VVHereas offence hath beene taken, that ſome of us whoſe names are underwritten, did abſent our ſelves, from the Lords Supper the laſt communion day, we thought good to give the reaſon of our abſences in writeing, with our names ſubſcribed therunto, being willing to beare our blame, if it ſhalbe proved to us out of the Word of God, that we have ſinned in ſo doeing; for which we confeſſe that the cauſe thereof was no contempt or ſleight account of the Lords Supper, the free injoy<g ref="char:EOLhyphen"/>ment whereof in a right manner, we account an eſpeciall priviledge, and whatſoever hindereth us from it a very grievous affliction.</p>
+               <p>In which reſpect we are the more deeply, and inwardly greeved with the ſinfull proceedings of Mr. Iohn Paget, which deprived us of ſo great a comfort at that time, for howſoever we doe not thinke that the perſonall ſin of any man can defile the ordinance of God to us, if we be meete and fitte to pertake therof, yet we know that a man may make himſelfe pertake of other mens ſinnes, by neglecting his duty in ſeeking reformation, and ſo communicate unworthily.</p>
+               <p>Wherefore having waited that ſomething ſhould have beene done by others in this caſe, but in vaine, we durſt not approach to the Lords table till we had in ſome mea<g ref="char:EOLhyphen"/>ſure diſcharged our dutyes in this particular, which we thought we ſhould have a fitt opportunity to doe, when
+<pb n="19" facs="tcp:20024:10"/> we ſhould be called upon, to ſhew the reaſons of our ab<g ref="char:EOLhyphen"/>ſence at that time, which formerly we could not obtaine.</p>
+               <p>We conceive that Mr. Paget doth adminiſter the Lords ſupper to us by vertue of his paſtorall office wherunto he hath beene called in this Church. And that amongſt com<g ref="char:EOLhyphen"/>municants, eſpecially Paſtour and People, there ſhould be an union in chriſtian love and affection, and communion in all the fruits thereof, one whereof is ſeaſonable ad<g ref="char:EOLhyphen"/>monition, which in caſe of publick ſcandall and offence, muſt be publick, as we conceive it is in this preſent caſe, which we would have borne, if the injury had beene but perſonall to any one of us, and covered, if it had beene a meere infirmity, or but a private offence, but ſeeing the matter is a publick injury, and obſtinately perſiſted in, to the great diſhonour of God &amp; hurt of the Church, we are not to be ſilent any longer, but by theſe preſents doe teſtify to all men, principally to you the Elders of this Church, that howſoever M<hi rend="sup">r</hi>. Paget beareth the name; filleth up the place, and doth many works of a Paſtour amongſt us, yet he doth not behave himſelf as becometh a Paſtour, neither in government nor doctrine towards us.</p>
+               <p>That he doth it not in government will appeare in theſe particulars, firſt he depriveth the Church of that li<g ref="char:EOLhyphen"/>berty and power which Chriſt hath given it, in the free choyce of their Paſtour, contrary to, Act. 6, 3. and 14.23.</p>
+               <p>This we prove by his rejecting, and oppoſing of the moſt worthy ſervants of God (who came out of England for the ſame cauſe he did) whome the Church with one conſent deſired, as Mr. Hooker, and M<hi rend="sup">r</hi>. Davenport of later times, and alſo Mr. Parker, Dr. Ames, M<hi rend="sup">r</hi>. Forbes, Mr. Peters, &amp;c.</p>
+               <p>Secondly by his preſſing others upon the congrega<g ref="char:EOLhyphen"/>tion, abuſeing his intereſt in the Magiſtrate and Claſſis to that purpoſe, to the unſpeakeable injurye and grief of the Church, in which courſe he hath prevailed ſo farre,
+<pb n="20" facs="tcp:20024:10"/> as to procure that none of our owne nation that com im<g ref="char:EOLhyphen"/>mediately from England, though never ſo fitt and able, ſhould be admitted, but we muſt be forced to take one that can ſpeake Dutch, and one in this country, though the Lord hath fought againſt his courſe hitherto by the great unfitnes of thoſe who have preached here by his nomination or conſent in ſending for.</p>
+               <p>Secondly, Mr. Paget depriveth the Elders of their po<g ref="char:EOLhyphen"/>wer in Government, for the good of the Church, which will thus appeare.</p>
+               <p>Firſt when matters have beene referred to the Elders to determine, he hath rejected their counſel, and opinions, ſometimes accuſing them of partiality, ſometimes of in<g ref="char:EOLhyphen"/>ſufficiency to judge, when he thought they would con<g ref="char:EOLhyphen"/>clude againſt his purpoſe.</p>
+               <p>Secondly, when the Elders have declared their judg<g ref="char:EOLhyphen"/>ment with one conſent, he hath proteſted againſt it, and caryed it to the Claſſis, though the matter hath beene ſuch, as, ſeing it might have beene ended in the conſiſtory, ought not to have beene brought thither, as,</p>
+               <p>Firſt, when the conſiſtory agreed that an order ſhould be made, that all that were not members of this Church ſhould make themſelves knowne to Mr. Davenport, that he might be ſatisfyed concerning them, before they ſhould preſent their children to Baptiſme in this Church, which order would have ended the difference betweene them, if it had taken place, but Mr. Paget proteſted againſt it.</p>
+               <p>Sec. When the Elders agreed that Mr. Dav. ſhould have a years time to goe on in aſſiſting Mr. Paget in preaching, to ſee if in that time he could procure that this queſtion might be laid downe, and might be fully informed of all the or<g ref="char:EOLhyphen"/>ders and cuſtomes of the Dutch Church, wherunto Mr. Paget would bind him to conforme, as a condition wher<g ref="char:EOLhyphen"/>upon he was to be admitted to the paſtorall office in this Church, Mr. Pa. oppoſed this, as if the conſiſtory could not have power to doe ſo much without the Claſſis, &amp; many
+<pb n="19" facs="tcp:20024:11"/> the like things might be brought; as that he would not let Mr. Wells Preache whom he profeſſed he had no<g ref="char:EOLhyphen"/>thing againſt, without the leave of the Claſſis, &amp;c.</p>
+               <p>Thirdly, he ſubjecteth this Church under an un<g ref="char:EOLhyphen"/>due power of the Claſſis, which he bringeth it under, meerely for his owne ends, as we conceive, without any warrant from the Word of God, as thus appea<g ref="char:EOLhyphen"/>reth.</p>
+               <p>Firſt he giveth them power, to ſerve his ends in keeping-off any Miniſter, whome he would have kept out, for cauſes pretended by himſelfe, (though he would have had them that to this day hould the ſame opinion) though ſuch as he keepeth out be knowne to be moſt eminent, able, and Godly men, and ſuch as abhorre all hereſye, and Sciſme; which he hath cauſed the Claſſis to execute upon Mr. Hooker and Mr. Davenport, which we are confident they would not have done but by Mr. Pagets ſuggeſtion to the great greife and hurt of the members of this Church.</p>
+               <p>Secondly, he giveth them power to make lawes, and orders wherunto whoſoever wilbe miniſter of this Church muſt ſubmit, as to obſerve all the orders and cuſtomes of the Dutch Church, though ſome of them are ſuch as the Miniſters of the dutch, would caſt-off if the vaſtnes of their Church (being but one in ſo great a city) did not force them thereunto; of which the pro<g ref="char:EOLhyphen"/>miſcuous baptizing of all that are brought without diffe<g ref="char:EOLhyphen"/>rence, or knowledge of them, is one; for which Mr. Davenport is kept out of this Church, though there is no need of tying the Miniſter of this Church to that cuſtome, the congregation being ſmall, and who can thinke that they would tye us ſo ſtrictly to all their or<g ref="char:EOLhyphen"/>ders, when one of them ſaid to Mr. Paget. (on occa<g ref="char:EOLhyphen"/>ſion of his complaint in the Claſſis of Mr. Davenport not conforming to their orders) why? yuur ſelfe do not conforme to all our orders; and certainly they would
+<pb n="20" facs="tcp:20024:11"/> all have rejoyced, to have heard that all our differences had beene ended amongſt our ſelves; yea he hath of late as we heard, required of the Elders to make an order in the conſiſtory, that whatſoever Miniſter ſhall hereafter be called to this Church, ſhould conforme to a writing which he got 5. Dutch Miniſters to make in his owne houſe about that queſtion, and ſent it to Mr. Davenport, which we thinke no Godly man will abſolutely be bound unto.</p>
+               <p>Thirdly, he violently, without conſent of any of the conſiſtory, bringeth matters from thence, to the Claſſis, when he can not have his will injuſtly ſatisfyed, and ſo deſtroys the power of the Church utterly; often anſwering, they can doe nothing in theſe caſes without the claſſis, of which we reverently eſteeme for Counſell and advice in all difficult matters, that can not be ended amongſt our Conſiſtory.</p>
+               <p>Fourthly under pretence of aſking and taking adviſe of the Claſſis, he ſubjected the Church under their au<g ref="char:EOLhyphen"/>thority and power, as he calls it, tho the Church never acknowledged any ſuch power to be due, as the ſcrip<g ref="char:EOLhyphen"/>tures in any place giveth not to ſuch a company of Mini<g ref="char:EOLhyphen"/>ſters, nor as becometh any except the Apoſtles that could not erre, to have.</p>
+               <p>Fourthly he doth not the duty of a Paſtour to the particular members of this congregation, we prove after this maner.</p>
+               <p>Firſt, when Godly perſons make their complaint of thoſe that walke diſorderly, and that the cenſures are not executed againſt offenders, they that ſeeke the good of the Church are checked and diſcouraged by him.</p>
+               <p>Secondly, when ſome have beene ſuſpended from the Lords table, they may live many yeares, and dye in their ſins, before he lookes after them to reclaime them.</p>
+               <p>Thirdly the viſiting of the members at their houſes
+<pb n="21" facs="tcp:20024:12"/> is ſo farre neglected, that not onely divers members ne<g ref="char:EOLhyphen"/>ver were once viſited by him in divers yeares, but alſo the viſitation of the members againſt the ſacrament is wholy left off.</p>
+               <p>Fourthly wheras it was deſired, that the weekly ſer<g ref="char:EOLhyphen"/>mons on wendeſdayes, and thoſe uſuall before the Sacrament, ſhould againe be begun, and aſſiſtance hath beene offred him therein without his charge at leaſt, he neither would performe them himſelf, nor ſuffer any other we could get to do it, though the Elderſhip agreed it ſhould be ſoe.</p>
+               <p>Secondly for his Doctrine, we have much againſt it. But to let paſſe his ſleight Sermons, which be many for a man of his abilityes.</p>
+               <p>Firſt his ſelf preaching, and miſapplying of holy truths, which hath beene done with ſuch bitternes of late, that ſome of us are diſcouraged, from hearing him, and all of us are ſent home with ſad hearts, when thoſe of his ſide are made glad, and inſult, who pretend to cleave to Mr. Paget, out of their enmity againſt us, and thoſe wayes of Godlines wherin we deſire and indeavour to walke.</p>
+               <p>Secondly for his takeing of text of purpoſe, fit to ſtirre up contention, as of late, that of the 5. of Eſay about the vinyard upon which five firſt verſes he hath taught a great while, which with what bitternes he hath taught againſt the Godly, many Paſſages, and members will witnes, and inſinuating things againſt us, that we never thought of, making us vile before the whole congre<g ref="char:EOLhyphen"/>gation, and to be inſulted over by unworthy termes, from thoſe of his ſide: to our great griefe and continuall vexation, and 10. dayes ſince ſtrain<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the 5. verſe which tels what God will doe to his vineyned, and ſpake alto<g ref="char:EOLhyphen"/>gether of mens diſorders in the Church.</p>
+               <p>Thirdly he hath preacht very bitterly and provoking<g ref="char:EOLhyphen"/>ly, againſt privat meetings, not onely long ſince, but of late, hath done very unjuſtly, and manifeſt injurye to
+<pb n="22" facs="tcp:20024:12"/> Mr. Davenport whom he (plainly enough) reproached in his pulpit, about the meeting of divers to heare him open the groundes of religion, in Catechyſing the fa<g ref="char:EOLhyphen"/>mily where he lived, every Lords day after the ſermons were ended, at 5. a Clock at night; where many received much edification, which he hath injuriouſly now depri<g ref="char:EOLhyphen"/>ved us of, to the great grief of many Godly ſoules.</p>
+               <p>Fourthly about the queſtion betweene him and Mr. Davenport, for the baptiſing of all Children that are brought, though the parents were altogether unknowne, he very reproachfully upbraided Mr. Davenport of errour, and gave out that he would anſwer him in the pulpit, and when the day came wherein we expected the perfor<g ref="char:EOLhyphen"/>mance of his promiſe, he avoyded the queſtion betweene them, and fell upon the Anabaptiſts and Browniſts, from both which Mr. Davenport differeth in that poynt, as he hath tould him formerly, and offred him to declare in publick how farre he differed from them therein, is this brotherly dealing, thus to uſe a miniſter who hath ſo love<g ref="char:EOLhyphen"/>ingly aſſiſted him and us, in our neceſſity? and to traduce him falſly and injuriouſly in this maner, and all to the end that he may ſeeme to juſtify his keeping of him out of the Church, whom the Church, hath ſo much de<g ref="char:EOLhyphen"/>ſired, and bewaileth that they are deprived of him, which the Claſſis at firſt conſented unto (though they knew the difference) till Mr. Paget brought it againe to them by force, to have them make an order to condemne their owne practice, and therefore wee conceive Mr. Paget the onely cauſe we are deprived of ſuch heavenly means for our Edification.</p>
+               <p>Now we pray you our Elders in the feare of God to take theſe our complaints to heart, and to give your judg<g ref="char:EOLhyphen"/>ment w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ether it be not fit, and more then time, that ſome lawfull courſe be taken for the redreſſe of theſe grievan<g ref="char:EOLhyphen"/>ces, and to conſult which way, it may beſt be done; that ſo in that great day of the Lord you may give up yours
+<pb n="23" facs="tcp:20024:13"/> account, for the diſcharge of this Truſt committed unto you, with joy, which if you ſhall upon this our ſolemne complaint neglect to doe, we doe proteſt before the Lord, &amp; his Church, to be wholy guiltles of all theſe evills, have<g ref="char:EOLunhyphen"/>ing done our utmoſt indeavour for the redreſſe of the ſame; &amp; the ſinne thereof, to lay upon Mr. Iohn Paget our preſent paſtour, as the principall cauſe of all theſe evills, and next upon your ſelves, who have the cheifeſt autho<g ref="char:EOLhyphen"/>rity in the Church, for the redreſſe of all evils.</p>
+               <p>So beſeeching the Lord to bleſſe our indevours, and deſireing you to cauſe theſe our complaints to reſt upon record in the regiſter of this Church, that after times may ſee how theſe evils have beene witneſſed againſt, we ſub<g ref="char:EOLhyphen"/>ſcribe our names as followeth, deſireing alſo, that place may be left in the regiſter for all others, that hearing here<g ref="char:EOLhyphen"/>of, ſhall deſire to have their names underwritten, for the more full witnes of theſe things, becauſe we have not gathered many names as we could have done of many, (becauſe you might have nothing to take offence at that way) which we conceive would gladly have joyned with us herein, not onely of men but of many Godly women alſo, that are of the ſame mind with us.</p>
+               <list>
+                  <item>W. B.</item>
+                  <item>N. I.</item>
+                  <item>I. C.</item>
+                  <item>I. P.</item>
+                  <item>I. St.</item>
+                  <item>L. C.</item>
+                  <item>T. F.</item>
+                  <item>H. P.</item>
+                  <item>A. H.</item>
+               </list>
+               <pb n="24" facs="tcp:20024:13"/>
+               <p>We who laſt time, did not with our brethren above written abſtaine from the Lords Supper, yet deſire to joyne as one with them in theſe complaints, and Grie<g ref="char:EOLhyphen"/>vances, and therefore have underwritten our names as follow.</p>
+               <list>
+                  <item>S. O.</item>
+                  <item>D. B.</item>
+                  <item>T. A.</item>
+                  <item>R. P.</item>
+                  <item>I. H.</item>
+                  <item>G. B.</item>
+                  <item>E. P.</item>
+                  <item>L. D.</item>
+                  <item>T. P.</item>
+                  <item>E. S.</item>
+                  <item>F. D.</item>
+                  <item>P. L.</item>
+               </list>
+               <p>After thes greivances were given unto the conſiſtory, divers members more hearing thereof, deſired to joyn in the ſame and ſubſcribed their names allſo.</p>
+               <p>
+                  <hi>Now for concluſion, ſince the caſe ſo ſtands as is here reported, under ſuch plentifull teſtimonie, what remains, but that every one that would approve himſelf to God (if redreſſe cannot be had) labour to keep himſelf pure, and not per<g ref="char:EOLhyphen"/>take of others ſins, by continuing the ſervants of men, againſt the power and liberty purchaſed by Chriſt for his Church of ſaincts, knowing the way of the upright is to de<g ref="char:EOLhyphen"/>part from evill. Stand faſt therefore, quitt you like men, in ſtriving for the maintenaunce of this part of the faith, and the Lord wilbe with you if you wilbe faithfull unto him.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
